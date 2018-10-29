@@ -16,7 +16,7 @@ class App extends Component {
     formErrors: {}
   };
 
-  onChange = async (event) => {
+  onChange = (event) => {
     const {name, value} = event.target;
     const {formCredentials} = this.state;
     formCredentials[name] = value;
