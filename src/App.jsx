@@ -19,7 +19,6 @@ class App extends Component {
   onChange = (event) => {
     const {name, value} = event.target;
     const formCredentials = {...this.state.formCredentials, [name] : value};
-    // formCredentials[name] = value;
     this.setState({formCredentials});
     this.debounceSingleFieldValidation({name, value});
   };
