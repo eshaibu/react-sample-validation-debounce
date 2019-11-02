@@ -5,11 +5,11 @@
   "homepage": "http://eshaibu.github.io/react-sample-validation-debounce",
   "dependencies": {
     "lodash.debounce": "^4.0.8",
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.7.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5",
-    "validatorjs": "^3.15.1"
+    "validatorjs": "^3.17.1"
   },
   "scripts": {
     "start": "react-scripts start",
