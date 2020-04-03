@@ -2,7 +2,7 @@
   "name": "react-sample-validation-debounce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://eshaibu.github.io/react-sample-validation-debounce",
+  "homepage": "https://eshaibu.github.io/react-sample-validation-debounce",
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "prop-types": "^15.7.2",
